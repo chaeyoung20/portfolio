@@ -404,8 +404,18 @@ p.career span{
     box-sizing: border-box;
 }
 
-.portlist-item.last{
+/* .portlist-item.last{
     border-bottom: none;
+} */
+
+.list-control{
+    padding-top: 2rem;
+}
+
+.list-control p{
+    font-size: .75rem;
+    line-height: 1.5rem;
+    word-break: keep-all;
 }
 
 .portlist-item img{

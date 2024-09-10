@@ -414,8 +414,12 @@ p.career span{
 
 .list-control p{
     font-size: .75rem;
-    line-height: 1.5rem;
+    line-height: 1.2rem;
     word-break: keep-all;
+}
+
+.list-control p:first-child{
+    margin-bottom: .75rem;
 }
 
 .portlist-item img{

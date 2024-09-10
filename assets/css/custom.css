@@ -416,6 +416,7 @@ p.career span{
     font-size: .75rem;
     line-height: 1.2rem;
     word-break: keep-all;
+    text-align: right;
 }
 
 .list-control p:first-child{

@@ -705,6 +705,10 @@
         margin: auto;
     }
 
+    .list-control p{
+        text-align: right;
+    }
+
     .port-infor {
         margin-right: auto;
         text-align: left;
